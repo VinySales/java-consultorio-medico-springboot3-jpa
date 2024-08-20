@@ -19,7 +19,7 @@ public class JanieleApplication implements CommandLineRunner {
 			@Override
 			public void run() {
 				//new CadastrarPaciente().setVisible(true);
-				new MainMenu().setVisible(true);
+				//new MainMenu().setVisible(true);
 			}
 		});
 	}
